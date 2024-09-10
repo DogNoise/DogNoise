@@ -1,6 +1,12 @@
 Hej! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ======
 
+## Ważne linki
+[Hackerrank](https://www.hackerrank.com/profile/piatekrafa)
+[Linkedin](https://www.linkedin.com/in/nojsudoggo/)
+<a href="https://www.hackerrank.com/profile/piatekrafa" target="_blank" rel="noreferrer">##Hackerrank</a>
+
+<a href="https://www.linkedin.com/in/nojsudoggo/" target="_blank" rel="noreferrer">##linkedin</a>
 <!--
 **DogNoise/DogNoise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +21,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Portfolio
-<a href="https://www.hackerrank.com/profile/piatekrafa" target="_blank" rel="noreferrer">##Hackerrank</a>
 
-<a href="https://www.linkedin.com/in/nojsudoggo/" target="_blank" rel="noreferrer">##linkedin</a>
 <!--
 ### Skille
 
@@ -33,8 +36,8 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://www.github.com/DogNoise" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
--->
+
 <b>Top Repo</b>
 
 <div width="100%" align="center"><a href="https://github.com/DogNoise/Universal-Speech-to-Text" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DogNoise&repo=Universal-Speech-to-Text&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
+-->
