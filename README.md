@@ -1,4 +1,4 @@
-Hej! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Jestem Rafał
+Hej! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 =============================================================================================================================
 
 <!--
@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Portfolio
-<a href="https://www.hackerrank.com/profile/piatekrafa" target="_blank" rel="noreferrer">Hackerrank</a>
-<a href="https://www.linkedin.com/in/nojsudoggo/" target="_blank" rel="noreferrer">linkedin</a>
+<a href="https://www.hackerrank.com/profile/piatekrafa" target="_blank" rel="noreferrer">##Hackerrank</a>
+
+<a href="https://www.linkedin.com/in/nojsudoggo/" target="_blank" rel="noreferrer">##linkedin</a>
 <!--
 ### Skille
 
