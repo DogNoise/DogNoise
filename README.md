@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### Portfolio
+<a href="https://www.hackerrank.com/profile/piatekrafa" target="_blank" rel="noreferrer">hackerrank</a>
 <!--
 ### Skille
 
