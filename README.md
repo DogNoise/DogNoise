@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Portfolio
-<a href="https://www.hackerrank.com/profile/piatekrafa" target="_blank" rel="noreferrer">hackerrank</a>
+<a href="https://www.hackerrank.com/profile/piatekrafa" target="_blank" rel="noreferrer">Hackerrank</a>
+<a href="https://www.linkedin.com/in/nojsudoggo/" target="_blank" rel="noreferrer">linkedin</a>
 <!--
 ### Skille
 
