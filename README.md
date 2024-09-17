@@ -1,6 +1,6 @@
 Hej! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Tu Rafał
 ======
-Dzięki że wpadłeś na mój GitHub. Znajdziesz tu moją [pracę inżynierską](https://github.com/DogNoise/Universal-Speech-to-Text), [osiągnięcia](https://github.com/DogNoise#osi%C4%85gni%C4%99cia), [ważne linki](https://github.com/DogNoise#osi%C4%85gni%C4%99cia) i kilka prywatnych projektów które będę regularnie tu publikował. Poza tym znajdziesz tu aktualną [listę certyfikatów](https://github.com/DogNoise#certyfikaty). 
+Dzięki że wpadłeś na mój GitHub. Znajdziesz tu moją [pracę inżynierską](https://github.com/DogNoise/Universal-Speech-to-Text), [osiągnięcia](https://github.com/DogNoise#osi%C4%85gni%C4%99cia), [ważne linki](https://github.com/DogNoise#wa%C5%BCne-linki) i kilka prywatnych projektów które będę regularnie tu publikował. Poza tym znajdziesz tu aktualną [listę certyfikatów](https://github.com/DogNoise#certyfikaty). 
 
 ## Ważne linki
 [Profil Linkedin](https://www.linkedin.com/in/nojsudoggo/)
