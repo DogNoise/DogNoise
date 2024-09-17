@@ -15,6 +15,8 @@ Dzięki że wpadłeś na mój GitHub. Znajdziesz tu moją pracę inżynierską i
 - Pre Security
 <img src="https://github.com/DogNoise/DogNoise/blob/main/images/THM-SZ46Q5JIAS.png" alt="alt" style="width:150px;"/>
 
+<script src="https://tryhackme.com/badge/3488812"></script>
+
 - Introduction to Cyber Security
 
 <img src="https://github.com/DogNoise/DogNoise/blob/main/images/THM-JGH0NY7EMX.png" alt="alt" style="width:150px;"/>
