@@ -1,5 +1,14 @@
 Hej! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Tu Rafał
 ======
+Dzięki że wpadłeś na mój GitHub. Znajdziesz tu moją pracę inżynierską i kilka prywatnych projektów które będę regularnie tu publikował. 
+
+## Ważne linki
+[Profil HackerRank](https://www.hackerrank.com/profile/piatekrafa)
+
+[Profil TryHackMe](https://tryhackme.com/p/NoRaf)
+
+[Profil Linkedin](https://www.linkedin.com/in/nojsudoggo/)
+
 ## Certyfikaty
 
 ### TryHackMe.com
@@ -31,11 +40,6 @@ W trakcie:
 - ukończenie studiów (Informatyka) z oceną 5.0
 - obrona pracy dyplomowej z oceną 5.0
 
-
-## Ważne linki
-[Hackerrank](https://www.hackerrank.com/profile/piatekrafa)
-
-[Linkedin](https://www.linkedin.com/in/nojsudoggo/)
 
 
 
