@@ -14,8 +14,8 @@ Hej! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 - Rest API
 - Problem Solving
 - Python
-<img src="https://github.com/DogNoise/DogNoise/blob/main/images/hr_certifications.png" alt="alt" style="width:300px;"/>
-
+<img src="https://github.com/DogNoise/DogNoise/blob/main/images/hr_certifications.png" alt="alt" style="width:400px;"/>
+<img src="https://github.com/DogNoise/DogNoise/blob/main/images/hr_badges.png" alt="alt" style="width:200px;"/>
 
 ## Osiągnięcia 
 - prawie 5 lat prowadzenia własnej działności
@@ -34,7 +34,4 @@ Hej! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 
 
 
-
-
-<img src="https://github.com/DogNoise/DogNoise/blob/main/images/hr_badges.png" alt="alt" style="width:200px;"/>
 
