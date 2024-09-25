@@ -12,6 +12,14 @@ Dzięki że wpadłeś na mój GitHub. Znajdziesz tu moją [pracę inżynierską]
 
 ## Certyfikaty
 
+### Google 
+- Foundations of Cybersecurity (Coursera)
+<img src="https://github.com/DogNoise/DogNoise/blob/main/images/Coursera-FCDR1ZZHHQ59.png" alt="alt" style="width:150px;"/>
+
+- Play It Safe: Manage Security Risks (Coursera)
+<img src="https://github.com/DogNoise/DogNoise/blob/main/images/Coursera-TDCY9UUISC4K.png" alt="alt" style="width:150px;"/>
+
+
 ### TryHackMe.com
 - Pre Security
 <img src="https://github.com/DogNoise/DogNoise/blob/main/images/THM-SZ46Q5JIAS.png" alt="alt" style="width:150px;"/>
@@ -28,13 +36,13 @@ Dzięki że wpadłeś na mój GitHub. Znajdziesz tu moją [pracę inżynierską]
 <img src="https://github.com/DogNoise/DogNoise/blob/main/images/hr_certifications.png" alt="alt" style="width:400px;"/>
 <img src="https://github.com/DogNoise/DogNoise/blob/main/images/hr_badges.png" alt="alt" style="width:200px;"/>
 
+
 ### Coursera.com 
 W trakcie:
  - IBM - Introduction to Cybersecurity Carrers 
  - Google - Introduction to Security Principles in Cloud Computing
  - Google - Foundatins of Cybersecurity 
  - Google AI Essentials
-
 
 ## Osiągnięcia 
 - prawie 5 lat prowadzenia własnej działności
